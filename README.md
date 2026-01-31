@@ -33,11 +33,11 @@
 # How to run Phase 1:
   1) Prepare .env file
      <img width="588" height="41" alt="image" src="https://github.com/user-attachments/assets/a7a271e6-241b-4d14-97a9-db97425efe41" />
-  2) Install dependancies
+  3) Install dependancies
      <img width="1006" height="122" alt="image" src="https://github.com/user-attachments/assets/15661dea-e763-4851-937f-f7bbb632a186" />
-  3) Run Ollama locally on your laptop
+  4) Run Ollama locally on your laptop
      Install Ollama and the LLaMA 3.2 model locally
-  4) Now run the main.py file and press enter to start recording and cntrl + c to stop recording once you are done
-  5) Wait till it generates notes.md
+  5) Now run the main.py file and press enter to start recording and cntrl + c to stop recording once you are done
+  6) Wait till it generates notes.md
 
 
